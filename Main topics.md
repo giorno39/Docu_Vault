@@ -18,6 +18,3 @@ unit tests- easy to test, views/clases that are decoupled from other parts
 поне 60 стр
 литература
 Latex?
-
-github token:
-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
